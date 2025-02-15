@@ -1,3 +1,16 @@
+######################################################
+##                                                  ##
+##                SuperiorSkyblock 2                ##
+##                Developed by Ome_R                ##
+##                                                  ##
+######################################################
+
+# If you wish to create a new language file, please copy this one.
+# Make sure you give the name a correct language name.
+# https://www.oracle.com/technetwork/java/javase/java8locales-2095355.html
+# You can find a tutorial about configuring messages here:
+# https://wiki.bg-software.com/superiorskyblock/messages
+
 ADMIN_ADD_PLAYER: "&e&lSziget &7» &fSikeresen hozzáadtad a {0} játékost a {1} szigetéhez."
 ADMIN_ADD_PLAYER_NAME: "&e&lSziget &7» &fSikeresen hozzáadtad a {0} játékost a {1} szigethez."
 ADMIN_DEPOSIT_MONEY: "&e&lBank &7» &fBefizettél ${0}-t a {1} szigetének bankjába."
